@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SiteCours/static/css/main.6c7b2c87.css",
-    "main.js": "/SiteCours/static/js/main.9ab16136.js",
-    "index.html": "/SiteCours/index.html",
-    "main.6c7b2c87.css.map": "/SiteCours/static/css/main.6c7b2c87.css.map",
-    "main.9ab16136.js.map": "/SiteCours/static/js/main.9ab16136.js.map"
+    "main.css": "/OrderCourses/static/css/main.6c7b2c87.css",
+    "main.js": "/OrderCourses/static/js/main.9ab16136.js",
+    "index.html": "/OrderCourses/index.html",
+    "main.6c7b2c87.css.map": "/OrderCourses/static/css/main.6c7b2c87.css.map",
+    "main.9ab16136.js.map": "/OrderCourses/static/js/main.9ab16136.js.map"
   },
   "entrypoints": [
     "static/css/main.6c7b2c87.css",
